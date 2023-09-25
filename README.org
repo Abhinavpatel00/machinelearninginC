@@ -8,16 +8,16 @@ learning structure.
 
 
 
-```
+``js
   gcc main.c
-```
+``js
 
 This will produce ~a.exe~, 
 
 then you can run 
 
-```
+``js
 ./a.exe her_dead_voice.txt
-```
+``js
 
  to let the magic happen
