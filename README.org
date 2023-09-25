@@ -23,7 +23,7 @@ To embark on this intriguing journey, follow these simple steps:
 
 2. Build the project using the following command:
 
-   ```shell
+   ```sh
    gcc main.c
    ```
 
@@ -33,7 +33,7 @@ To embark on this intriguing journey, follow these simple steps:
 
 With the project successfully built, it's time to witness the magic. Run the program by executing the following command in your terminal:
 
-```shell
+```sh
 ./a.exe her_dead_voice.txt
 ```
 
