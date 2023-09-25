@@ -1,7 +1,7 @@
 this is basic machine learning model that i trained with my own book 
 
 it is implemented in C with no dependencies 
-I am using a [[https://en.wikipedia.org/wiki/Markov_chain][Markov Chain]] implemented within a [[https://en.wikipedia.org/wiki/Hash_table][hash map]] as the machine
+I am using a [Markov Chain](https://en.wikipedia.org/wiki/Markov_chain) implemented within a [hash map](https://en.wikipedia.org/wiki/Hash_table) as the machine
 learning structure. 
 
 
