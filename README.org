@@ -1,0 +1,23 @@
+this is basic machine learning model that i trained with my own book 
+
+it is implemented in C with no dependencies 
+I am using a [[https://en.wikipedia.org/wiki/Markov_chain][Markov Chain]] implemented within a [[https://en.wikipedia.org/wiki/Hash_table][hash map]] as the machine
+learning structure. 
+
+** Build
+
+
+
+```
+  gcc main.c
+```
+
+This will produce ~a.exe~, 
+
+then you can run 
+
+```
+./a.exe her_dead_voice.txt
+```
+
+ to let the magic happen
